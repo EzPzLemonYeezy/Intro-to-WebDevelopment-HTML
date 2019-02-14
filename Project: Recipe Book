@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+       
+        <h1>Yeezus's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#scrambled">Scrambled                eggs</a></li>
+            <li><a href="#fried">Fried eggs</a                ></li>
+            <li><a href="#boiled">boiled eggs</a             ></li>
+        </ol>
+        
+        <h2 id="scrambled">Scrambled Eggs</h2>
+        
+        <ul>
+            <li>Time: 10min</li>
+            <li>Serves: 4 people</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Eggs</td>
+                    <td>6</td>
+                </tr>
+                <tr>
+                    <td>Eggs</td>
+                    <td>6</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> 
+            Crack eggs into bowl.
+        </p>
+        
+        <p><strong>Step 2:</strong> 
+            Stir eggs.
+        </p>
+        
+        <p><strong>Step 3:</strong> 
+            Heat pan and add butter.
+        </p>
+        
+        <p><strong>Step 4:</strong> 
+            Add eggs, slowly stir until eggs                  scrambled.
+        </p>
+        
+        <p><strong>Step 5:</strong> 
+            Add salt and pepper and serve eggs.
+        </p>
+        
+        
+        
+        <h2 id="fried">Fried Eggs</h2>
+        
+        <ul>
+            <li>Time: 10min</li>
+            <li>Serves: 4 people</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Eggs</td>
+                    <td>4</td>
+                </tr>
+                <tr>
+                    <td>Eggs</td>
+                    <td>4</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> 
+            Heat pan and put butter on.
+        </p>
+        
+        <p><strong>Step 2:</strong> 
+            Crack eggs into pan.
+        </p>
+        
+        <p><strong>Step 3:</strong> 
+            Poke yolk with fork.
+        </p>
+        
+        <p><strong>Step 4:</strong> 
+            flip eggs when bottom cooked.
+        </p>
+        
+        <p><strong>Step 5:</strong> 
+            Add salt and pepper and serve eggs.
+        </p>
+        
+        
+        <h2 id="boiled">Boiled Eggs</h2>
+        
+        <ul>
+            <li>Time: 10min</li>
+            <li>Serves: 4 people</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Eggs</td>
+                    <td>4</td>
+                </tr>
+                <tr>
+                    <td>Eggs</td>
+                    <td>4</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> 
+            Boil water.
+        </p>
+        
+        <p><strong>Step 2:</strong> 
+            Put whole egg in water.
+        </p>
+        
+        <p><strong>Step 3:</strong> 
+            let cook for like idk how long, look             it up.
+        </p>
+        
+        <p><strong>Step 4:</strong> 
+            Take eggs out with spoon.
+        </p>
+        
+        <p><strong>Step 5:</strong> 
+            Put into bowl with water and ice.
+        </p>
+        
+        <p><strong>Step 6:</strong> 
+            once cooled use spoon to crack shell             and peel off egg shell.
+        </p>
+        
+        
+        
+        
+        
+    <p><em>Source: <a href="http://www.presidentschoice.ca/en_CA/recipes/recipeslisting.tag@lclonline!Main_Ingredient,Eggs.html?utm_source=google&utm_medium=cpc&utm_campaign=Recipes&utm_term=%7Bkeyword%7D+%7Bmatchtype%7D&utm_content=EN&gclid=EAIaIQobChMIj42p3-m74AIVArXACh2OAQxdEAAYAyAAEgJK3PD_BwE">some other egg recipes you can try</a></em></p>
+    
+    </body>
+</html>
