@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+        
+        li{
+            color:turquoise;
+            font-family:sans-serif;
+        }
+        
+        .header{
+            color:blue;
+            font-family:sans-serif;
+            font-style:italic;
+        }
+        #details{
+            font-family:cursive;
+        }
+            
+        </style>
+    </head>
+    <body>
+        
+        <h1 class="header">You're invited!</h1>
+        <h2 class="header">GoT is back</h2>
+        
+        <p>The details:</p>
+        <ul>
+            <li>
+                15 Febuary 2018
+            </li>
+            <li>
+                HBO
+            </li>
+            <li>
+                Game of Thrones
+            </li>
+        </ul>
+        <div>
+        <h3 class="header">Season VI</h3>
+        <p id="details"> Game of thrones stuff</p>
+        <ol>
+            <li>I havent even gotten past season 3!</li>
+            <li>whats this show even about?</li>
+        </ol>
+        </div>
+    </body>
+</html>
